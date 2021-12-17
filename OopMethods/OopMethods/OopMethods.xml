@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OopMethods</name>
+    </assembly>
+    <members>
+        <member name="M:OopMethods.ConsoleHelper.PrintMessage(System.String)">
+            <summary>
+            Prints a message in console.
+            </summary>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:OopMethods.ConsoleHelper.PrintMessage(System.String,System.String)">
+            <summary>
+            Prints a message with a label.
+            </summary>
+            <param name="label">The label.</param>
+            <param name="message">The message.</param>
+        </member>
+        <member name="M:OopMethods.ConsoleHelper.PrintMessage(System.String,System.Int32)">
+            <summary>
+            Prints a message multiple times.
+            </summary>
+            <param name="message">The message.</param>
+            <param name="count">The number of times.</param>
+        </member>
+    </members>
+</doc>
